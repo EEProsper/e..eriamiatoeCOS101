@@ -6,5 +6,5 @@ fn main() {
     println!();
     println!("After trim");
     println!("Length is {}",fullname.trim().len());
-    
+     
 }

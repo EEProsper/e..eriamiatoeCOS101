@@ -18,6 +18,6 @@ fn main() {
     let mut count = 1;
     for i in city {
         println!("{}{}",count,i );
-        count+=1;
+        count+=1;   
     }
 }
